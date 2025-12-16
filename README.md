@@ -6,7 +6,15 @@
 
 ---
 
-## 💻 Projets clés et sites déployés
+## 🌐 Sites déployés
+
+- [TchadEvent](https://tchadevent.onrender.com/)  
+- [ConvertX](https://convertx-beige.vercel.app/)  
+- [Site de vente de voitures](https://parfaitgnawe.infinityfreeapp.com/)
+
+---
+
+## 💻 Projets clés
 
 ### 1️⃣ EazyStore (Laravel)
 - E-commerce complet : produits, commandes, panier, paiements, factures PDF  
